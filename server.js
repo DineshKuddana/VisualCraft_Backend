@@ -18,7 +18,7 @@ mongoose
 
 // Routes
 app.get('/get-data', async (req, res) => {
-  res.send('Hello world');
+  res.send('Hello Backend is here');
 });
 
 // Server Listening
